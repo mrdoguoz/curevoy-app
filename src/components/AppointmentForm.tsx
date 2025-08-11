@@ -116,7 +116,7 @@ const AppointmentForm: React.FC<AppointmentFormProps> = ({ onClose, onSubmit }) 
     }
 
     try {
-      const response = await fetch('http://localhost:5000/api/appointments', {
+      const response = await fetch('https://curevoy-app-production.up.railway.app/api/appointments', {
         method: 'POST',
         headers: {
           'Content-Type': 'application/json',
