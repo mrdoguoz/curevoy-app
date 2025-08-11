@@ -33,12 +33,46 @@ app.get('/api/test', (req, res) => {
 });
 
 // Ana route
-app.get('/api', (req, res) => {
-  res.json({ 
-    message: 'Curevoy Sağlık Turizmi API',
-    version: '1.0.0',
-    status: 'Çalışıyor'
-  });
+app.get('/api', async (req, res) => {
+  try {
+    // Tüm randevuları getir
+    const appointments = await Appointment.find().sort({ createdAt: -1 });
+    
+    // Son 10 kaydı al
+    const recentAppointments = appointments.slice(0, 10);
+    
+    res.json({ 
+      message: 'Curevoy Sağlık Turizmi API',
+      version: '1.0.0',
+      status: 'Çalışıyor',
+      totalAppointments: appointments.length,
+      recentAppointments: recentAppointments.map(apt => ({
+        id: apt._id,
+        fullName: apt.fullName,
+        email: apt.email,
+        phone: apt.phone,
+        country: apt.country,
+        serviceType: apt.serviceType,
+        appointmentDate: apt.appointmentDate,
+        preferredTime: apt.preferredTime,
+        healthStatus: apt.healthStatus,
+        contactMethods: apt.contactMethods,
+        languagePreference: apt.languagePreference,
+        isEmergency: apt.isEmergency,
+        status: apt.status,
+        createdAt: apt.createdAt,
+        updatedAt: apt.updatedAt
+      }))
+    });
+  } catch (error) {
+    console.error('❌ Ana route hatası:', error.message);
+    res.status(500).json({
+      message: 'Curevoy Sağlık Turizmi API',
+      version: '1.0.0',
+      status: 'Hata',
+      error: error.message
+    });
+  }
 });
 
 // Appointment Routes
