@@ -1,0 +1,402 @@
+{
+  "common": {
+    "loading": "Yükleniyor...",
+    "error": "Hata oluştu",
+    "success": "Başarılı",
+    "cancel": "İptal",
+    "save": "Kaydet",
+    "delete": "Sil",
+    "edit": "Düzenle",
+    "view": "Görüntüle",
+    "search": "Ara",
+    "filter": "Filtrele",
+    "sort": "Sırala",
+    "back": "Geri",
+    "next": "İleri",
+    "previous": "Önceki",
+    "submit": "Gönder",
+    "close": "Kapat",
+    "open": "Aç",
+    "yes": "Evet",
+    "no": "Hayır",
+    "ok": "Tamam"
+  },
+  "navigation": {
+    "home": "Ana Sayfa",
+    "doctors": "Doktorlar",
+    "clinics": "Klinikler",
+    "services": "Hizmetler",
+    "appointments": "Randevu Al",
+    "contact": "İletişim",
+    "faq": "SSS",
+    "login": "Giriş Yap",
+    "register": "Kayıt Ol",
+    "profile": "Profil",
+    "settings": "Ayarlar",
+    "logout": "Çıkış Yap"
+  },
+  "header": {
+    "logo": "Curevoy",
+    "slogan": "Sağlık Turizmi Portalı",
+    "languageSelector": "Dil Seçimi",
+    "mobileMenu": "Mobil Menü"
+  },
+  "hero": {
+    "title": "İyileş ve Keşfet",
+    "subtitle": "Dünya standartlarında sağlık hizmetleri için uzman doktorlar ve modern kliniklerle tanışın. Güvenli, kaliteli ve uygun fiyatlı tedavi seçenekleri.",
+    "appointmentButton": "Randevu Al",
+    "doctorsButton": "Doktorları Görüntüle",
+    "stats": {
+      "doctors": "Uzman Doktor",
+      "clinics": "Modern Klinik",
+      "patients": "Mutlu Hasta"
+    }
+  },
+  "services": {
+    "title": "Hizmetlerimiz",
+    "cardiology": {
+      "title": "Kardiyoloji",
+      "description": "Kalp sağlığı için uzman kardiyologlar ve modern tedavi yöntemleri",
+      "icon": "❤️"
+    },
+    "dental": {
+      "title": "Diş Tedavisi",
+      "description": "Estetik diş hekimliği ve implant tedavileri",
+      "icon": "🦷"
+    },
+    "hairTransplant": {
+      "title": "Saç Ektirme",
+      "description": "FUE ve DHI teknikleri ile doğal saç ektirme",
+      "icon": "💇‍♂️"
+    },
+    "rhinoplasty": {
+      "title": "Burun Estetiği",
+      "description": "Rinoplasti ve burun estetiği operasyonları",
+      "icon": "👃"
+    },
+    "viewDetails": "Detayları Görüntüle"
+  },
+  "servicePages": {
+    "hero": {
+      "stats": {
+        "doctors": "Uzman Doktor",
+        "treatments": "Başarılı Tedavi",
+        "successRate": "Başarı Oranı"
+      }
+    },
+    "details": {
+      "title": "Hizmet Detayları",
+      "description": "Uzman doktorlarımız ve modern tedavi yöntemlerimizle size en iyi sağlık hizmetini sunuyoruz.",
+      "treatments": "Sunulan Tedaviler",
+      "whyTurkey": "Neden Türkiye'de Tedavi?",
+      "benefits": {
+        "modernHospitals": {
+          "title": "Modern Hastaneler",
+          "description": "Son teknoloji cihazlarla donatılmış modern hastaneler"
+        },
+        "expertDoctors": {
+          "title": "Uzman Doktorlar",
+          "description": "Uluslararası deneyime sahip uzman doktorlar"
+        },
+        "affordablePrices": {
+          "title": "Uygun Fiyatlar",
+          "description": "Avrupa ve ABD'ye göre %60-70 daha uygun fiyatlar"
+        },
+        "easyAccess": {
+          "title": "Kolay Ulaşım",
+          "description": "Dünyanın her yerinden kolay ulaşım imkanı"
+        }
+      }
+    },
+    "infoCard": {
+      "title": "Hızlı Bilgi",
+      "treatmentDuration": "Tedavi Süresi",
+      "hospitalStay": "Hastanede Kalış",
+      "recoveryTime": "İyileşme Süresi",
+      "priceRange": "Fiyat Aralığı",
+      "bookAppointment": "Randevu Al"
+    },
+    "consultation": {
+      "title": "Ücretsiz Danışmanlık",
+      "description": "Uzmanlarımızla ücretsiz görüşün",
+      "phone": "Telefon",
+      "email": "E-posta",
+      "whatsapp": "WhatsApp"
+    },
+    "doctors": {
+      "title": "Uzman Doktorlarımız",
+      "experience": "deneyim",
+      "operations": "operasyon",
+      "success": "başarı",
+      "viewProfile": "Profili Görüntüle",
+      "specialties": {
+        "cardiology": "Kardiyoloji Uzmanı",
+        "interventionalCardiology": "Girişimsel Kardiyoloji",
+        "arrhythmia": "Ritim Bozuklukları",
+        "implantSpecialist": "İmplant Uzmanı",
+        "orthodonticsSpecialist": "Ortodonti Uzmanı",
+        "aestheticDentist": "Estetik Diş Hekimi",
+        "hairTransplantSpecialist": "Saç Ektirme Uzmanı",
+        "dhiSpecialist": "DHI Uzmanı",
+        "beardTransplantSpecialist": "Sakal Ektirme Uzmanı",
+        "plasticSurgeon": "Plastik Cerrahi Uzmanı",
+        "aestheticSurgeon": "Estetik Cerrahi Uzmanı",
+        "rhinoplastySpecialist": "Burun Estetiği Uzmanı"
+      },
+      "year": "yıl"
+    },
+    "testimonials": {
+      "title": "Hasta Yorumları",
+      "subtitle": "Mutlu hastalarımızın deneyimleri",
+      "testimonial1": {
+        "text": "Curevoy sayesinde Türkiye'de mükemmel bir diş tedavisi aldım. Tüm süreç çok profesyoneldi ve sonuçtan çok memnunum.",
+        "author": "Sarah Johnson",
+        "location": "İngiltere - Diş Tedavisi"
+      },
+      "testimonial2": {
+        "text": "Saç ektirme operasyonum çok başarılı geçti. Doktorum ve ekibi çok ilgiliydi. Kesinlikle tavsiye ederim.",
+        "author": "Ahmed Al-Rashid",
+        "location": "Suudi Arabistan - Saç Ektirme"
+      },
+      "testimonial3": {
+        "text": "Kardiyoloji tedavim için Türkiye'yi seçtim ve hiç pişman değilim. Modern hastane ve uzman doktorlar.",
+        "author": "Maria Rodriguez",
+        "location": "İspanya - Kardiyoloji"
+      }
+    },
+    "servicePages": {
+      "testimonials": {
+        "cardiology": {
+          "testimonial1": {
+            "text": "Koroner stent işlemim çok başarılı geçti. Doktorum ve ekibi çok profesyoneldi. Tedavi sonrası takip de mükemmeldi.",
+            "author": "John Smith",
+            "location": "İngiltere - Koroner Stent"
+          },
+          "testimonial2": {
+            "text": "Kalp pili takılması için Türkiye'yi seçtim. Hem tedavi hem de konaklama çok iyiydi. Kesinlikle tavsiye ederim.",
+            "author": "Maria Garcia",
+            "location": "İspanya - Kalp Pili"
+          },
+          "testimonial3": {
+            "text": "Ritim bozukluğu tedavim için geldim. Ablasyon işlemi başarılı oldu ve artık sorun yaşamıyorum.",
+            "author": "Ahmed Hassan",
+            "location": "Mısır - Ablasyon"
+          }
+        },
+        "dental": {
+          "testimonial1": {
+            "text": "İmplant tedavim çok başarılı geçti. Doktorum çok deneyimliydi ve sonuçtan çok memnunum.",
+            "author": "Emma Wilson",
+            "location": "Almanya - İmplant"
+          },
+          "testimonial2": {
+            "text": "Zirkonyum kaplama işlemim mükemmel oldu. Hem estetik hem de fonksiyonel olarak çok iyi.",
+            "author": "Carlos Rodriguez",
+            "location": "İspanya - Zirkonyum"
+          },
+          "testimonial3": {
+            "text": "Ortodonti tedavim için Türkiye'yi seçtim. Tedavi süreci çok profesyoneldi.",
+            "author": "Anna Kowalski",
+            "location": "Polonya - Ortodonti"
+          }
+        },
+        "hairTransplant": {
+          "testimonial1": {
+            "text": "FUE saç ektirme operasyonum çok başarılı geçti. Doğal görünüm elde ettim.",
+            "author": "Michael Brown",
+            "location": "İngiltere - FUE"
+          },
+          "testimonial2": {
+            "text": "DHI tekniği ile saç ektirme yaptırdım. Sonuç çok doğal ve memnunum.",
+            "author": "David Miller",
+            "location": "ABD - DHI"
+          },
+          "testimonial3": {
+            "text": "Sakal ektirme işlemim başarılı oldu. Doktorum çok uzman ve deneyimliydi.",
+            "author": "Ali Al-Zahra",
+            "location": "Suudi Arabistan - Sakal Ektirme"
+          }
+        },
+        "rhinoplasty": {
+          "testimonial1": {
+            "text": "Rinoplasti operasyonum çok başarılı geçti. Hem estetik hem de fonksiyonel olarak mükemmel.",
+            "author": "Sophie Martin",
+            "location": "Fransa - Rinoplasti"
+          },
+          "testimonial2": {
+            "text": "Burun ucu estetiği yaptırdım. Sonuç çok doğal ve memnunum.",
+            "author": "Isabella Silva",
+            "location": "Brezilya - Burun Ucu"
+          },
+          "testimonial3": {
+            "text": "Septoplasti operasyonum başarılı oldu. Artık nefes alma sorunum yok.",
+            "author": "Robert Johnson",
+            "location": "Kanada - Septoplasti"
+          }
+        }
+      }
+    },
+    "cta": {
+      "title": "Hemen Randevu Alın",
+      "description": "Uzman doktorlarımızla ücretsiz görüşün ve size en uygun tedavi planını öğrenin.",
+      "bookAppointment": "Randevu Al",
+      "freeConsultation": "Ücretsiz Danışmanlık"
+    }
+  },
+  "features": {
+    "title": "Neden Curevoy?",
+    "quality": {
+      "title": "Kalite Garantisi",
+      "description": "Dünya standartlarında sağlık hizmetleri",
+      "icon": "🏆"
+    },
+    "pricing": {
+      "title": "Uygun Fiyatlar",
+      "description": "Rekabetçi fiyatlarla kaliteli tedavi",
+      "icon": "💰"
+    },
+    "multilingual": {
+      "title": "Çok Dilli Destek",
+      "description": "Türkçe, İngilizce, Arapça ve Rusça",
+      "icon": "🌍"
+    },
+    "onlineAppointment": {
+      "title": "Online Randevu",
+      "description": "7/24 online randevu sistemi",
+      "icon": "📱"
+    }
+  },
+  "testimonials": {
+    "title": "Hasta Yorumları",
+    "subtitle": "Mutlu hastalarımızın deneyimleri"
+  },
+  "contact": {
+    "title": "Bizimle İletişime Geçin",
+    "description": "Sağlık turizmi hakkında bilgi almak, randevu oluşturmak veya sorularınız için bizimle iletişime geçin. Uzman ekibimiz size yardımcı olmaktan mutluluk duyacaktır.",
+    "form": {
+      "name": "Ad Soyad",
+      "email": "E-posta",
+      "phone": "Telefon",
+      "service": "Hizmet",
+      "message": "Mesajınız",
+      "submit": "Mesaj Gönder",
+      "required": "Bu alan zorunludur"
+    },
+    "info": {
+      "phone": "Telefon",
+      "email": "E-posta",
+      "address": "Adres",
+      "workingHours": "Çalışma Saatleri",
+      "phoneNumber": "+905516362773",
+      "emailAddress": "info@curevoy.com",
+      "addressText": "Levent, İstanbul, Türkiye",
+      "workingHoursText": "Pazartesi - Cuma: 09:00 - 18:00"
+    },
+    "whatsapp": {
+      "title": "WhatsApp ile İletişim",
+      "description": "Uzmanlarımızla ücretsiz görüşün",
+      "button": "WhatsApp'ta Aç"
+    }
+  },
+  "footer": {
+    "trust": {
+      "title": "Güven ve Kalite Sertifikaları",
+      "ssl": "SSL Güvenlik",
+      "jci": "JCI Akreditasyonu",
+      "kvkk": "KVKK Uyumlu",
+      "iso": "ISO 9001"
+    },
+    "sections": {
+      "about": {
+        "title": "Curevoy",
+        "description": "Türkiye'nin önde gelen sağlık turizmi portalı. Güvenli, kaliteli ve uygun fiyatlı tedavi seçenekleri."
+      },
+      "services": {
+        "title": "Hizmetler",
+        "cardiology": "Kardiyoloji",
+        "dental": "Diş Tedavisi",
+        "hairTransplant": "Saç Ektirme",
+        "rhinoplasty": "Burun Estetiği"
+      },
+      "quickLinks": {
+        "title": "Hızlı Linkler",
+        "doctors": "Doktorlar",
+        "clinics": "Klinikler",
+        "appointments": "Randevu Al",
+        "contact": "İletişim"
+      },
+      "support": {
+        "title": "Destek",
+        "faq": "Sık Sorulan Sorular",
+        "privacy": "Gizlilik Politikası",
+        "terms": "Kullanım Şartları",
+        "customerSupport": "Müşteri Desteği"
+      }
+    },
+    "bottom": {
+      "copyright": "© 2024 Curevoy. Tüm hakları saklıdır.",
+      "approval": "Sağlık Bakanlığı Onaylı • TÜV SÜD Sertifikalı",
+      "links": {
+        "privacy": "Gizlilik",
+        "terms": "Şartlar",
+        "cookies": "Çerezler"
+      }
+    }
+  },
+  "languages": {
+    "tr": "Türkçe",
+    "en": "English",
+    "ar": "العربية",
+    "ru": "Русский",
+    "fr": "Français",
+    "de": "Deutsch",
+    "es": "Español"
+  },
+  "timeUnits": {
+    "day": "gün",
+    "days": "gün",
+    "week": "hafta",
+    "weeks": "hafta",
+    "hour": "saat",
+    "hours": "saat"
+  },
+  "appointment": {
+    "title": "Randevu Al",
+    "step1": "Kişisel Bilgiler",
+    "step2": "Randevu Detayları",
+    "step3": "Sağlık Bilgileri",
+    "step4": "İletişim Tercihleri",
+    "personalInfo": "Kişisel Bilgiler",
+    "appointmentDetails": "Randevu Detayları",
+    "healthInfo": "Sağlık Bilgileri",
+    "contactPreferences": "İletişim Tercihleri",
+    "fullName": "Ad Soyad",
+    "email": "E-posta",
+    "phone": "Telefon Numarası",
+    "country": "Ülke",
+    "dateOfBirth": "Doğum Tarihi",
+    "serviceType": "Hizmet Türü",
+    "appointmentDate": "Randevu Tarihi",
+    "preferredTime": "Tercih Edilen Saat",
+    "isEmergency": "Acil Durum",
+    "healthStatus": "Mevcut Sağlık Durumu",
+    "medications": "Kullandığı İlaçlar",
+    "allergies": "Alerjiler",
+    "previousTreatments": "Önceki Tedaviler",
+    "contactMethod": "İletişim Yöntemi",
+    "languagePreference": "Dil Tercihi",
+    "additionalNotes": "Ek Notlar",
+    "selectCountry": "Ülke Seçin",
+    "workingHours": "Çalışma saatleri: Hafta içi 09:00-17:00",
+    "selectTime": "Saat Seçin",
+    "healthStatusPlaceholder": "Mevcut sağlık durumunuzu kısaca açıklayın...",
+    "medicationsPlaceholder": "Şu anda kullandığınız ilaçları listeleyin...",
+    "allergiesPlaceholder": "Bilinen alerjilerinizi belirtin...",
+    "previousTreatmentsPlaceholder": "Daha önce aldığınız tedavileri açıklayın...",
+    "additionalNotesPlaceholder": "Ek bilgiler veya özel isteklerinizi yazın...",
+    "operatorNotice": "Randevunuz onaylandıktan sonra operatörümüz sizinle iletişime geçecektir.",
+    "previous": "Önceki",
+    "next": "İleri",
+    "submit": "Randevu Talep Et"
+  }
+} 

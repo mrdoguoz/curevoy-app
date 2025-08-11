@@ -1,0 +1,383 @@
+{
+  "common": {
+    "loading": "Chargement...",
+    "error": "Une erreur s'est produite",
+    "success": "Succès",
+    "cancel": "Annuler",
+    "save": "Enregistrer",
+    "delete": "Supprimer",
+    "edit": "Modifier",
+    "view": "Voir",
+    "search": "Rechercher",
+    "filter": "Filtrer",
+    "sort": "Trier",
+    "back": "Retour",
+    "next": "Suivant",
+    "previous": "Précédent",
+    "submit": "Soumettre",
+    "close": "Fermer",
+    "open": "Ouvrir",
+    "yes": "Oui",
+    "no": "Non",
+    "ok": "OK"
+  },
+  "navigation": {
+    "home": "Accueil",
+    "doctors": "Médecins",
+    "clinics": "Cliniques",
+    "services": "Services",
+    "appointments": "Prendre Rendez-vous",
+    "contact": "Contact",
+    "faq": "FAQ",
+    "login": "Connexion",
+    "register": "S'inscrire",
+    "profile": "Profil",
+    "settings": "Paramètres",
+    "logout": "Déconnexion"
+  },
+  "header": {
+    "logo": "Curevoy",
+    "slogan": "Portail du Tourisme Médical",
+    "languageSelector": "Sélection de Langue",
+    "mobileMenu": "Menu Mobile"
+  },
+  "hero": {
+    "title": "Guérissez et Découvrez",
+    "subtitle": "Rencontrez des médecins experts et des cliniques modernes pour des services de santé de niveau mondial. Options de traitement sûres, de qualité et abordables.",
+    "appointmentButton": "Prendre Rendez-vous",
+    "doctorsButton": "Voir les Médecins",
+    "stats": {
+      "doctors": "Médecins Experts",
+      "clinics": "Cliniques Modernes",
+      "patients": "Patients Satisfaits"
+    }
+  },
+  "services": {
+    "title": "Nos Services",
+    "cardiology": {
+      "title": "Cardiologie",
+      "description": "Cardiologues experts et méthodes de traitement modernes pour la santé cardiaque",
+      "icon": "❤️"
+    },
+    "dental": {
+      "title": "Traitement Dentaire",
+      "description": "Dentisterie esthétique et traitements d'implant",
+      "icon": "🦷"
+    },
+    "hairTransplant": {
+      "title": "Greffe de Cheveux",
+      "description": "Greffe de cheveux naturelle avec techniques FUE et DHI",
+      "icon": "💇‍♂️"
+    },
+    "rhinoplasty": {
+      "title": "Rhinoplastie",
+      "description": "Rhinoplastie et chirurgies esthétiques du nez",
+      "icon": "👃"
+    },
+    "viewDetails": "Voir les Détails"
+  },
+  "servicePages": {
+    "hero": {
+      "stats": {
+        "doctors": "Médecins Experts",
+        "treatments": "Traitements Réussis",
+        "successRate": "Taux de Réussite"
+      }
+    },
+    "details": {
+      "title": "Détails du Service",
+      "description": "Nous vous fournissons le meilleur service de santé avec nos médecins experts et méthodes de traitement modernes.",
+      "treatments": "Traitements Disponibles",
+      "whyTurkey": "Pourquoi Traitement en Turquie ?",
+      "benefits": {
+        "modernHospitals": {
+          "title": "Hôpitaux Modernes",
+          "description": "Hôpitaux modernes équipés des derniers appareils technologiques"
+        },
+        "expertDoctors": {
+          "title": "Médecins Experts",
+          "description": "Médecins experts avec expérience internationale"
+        },
+        "affordablePrices": {
+          "title": "Prix Abordables",
+          "description": "Prix 60-70% plus abordables par rapport à l'Europe et aux États-Unis"
+        },
+        "easyAccess": {
+          "title": "Accès Facile",
+          "description": "Accès facile depuis n'importe où dans le monde"
+        }
+      }
+    },
+    "infoCard": {
+      "title": "Info Rapide",
+      "treatmentDuration": "Durée du Traitement",
+      "hospitalStay": "Séjour à l'Hôpital",
+      "recoveryTime": "Temps de Récupération",
+      "priceRange": "Fourchette de Prix",
+      "bookAppointment": "Prendre Rendez-vous"
+    },
+    "consultation": {
+      "title": "Consultation Gratuite",
+      "description": "Obtenez une consultation gratuite avec nos experts",
+      "phone": "Téléphone",
+      "email": "Email",
+      "whatsapp": "WhatsApp"
+    },
+    "doctors": {
+      "title": "Nos Médecins Experts",
+      "experience": "expérience",
+      "operations": "opérations",
+      "success": "succès",
+      "viewProfile": "Voir le Profil"
+    },
+    "testimonials": {
+      "title": "Avis des Patients",
+      "subtitle": "Expériences de nos patients satisfaits",
+      "testimonial1": {
+        "text": "Grâce à Curevoy, j'ai reçu un excellent traitement dentaire en Turquie. Tout le processus était très professionnel et je suis très satisfait du résultat.",
+        "author": "Sarah Johnson",
+        "location": "Angleterre - Traitement Dentaire"
+      },
+      "testimonial2": {
+        "text": "Mon opération de greffe de cheveux a été très réussie. Mon médecin et son équipe étaient très attentionnés. Je recommande définitivement.",
+        "author": "Ahmed Al-Rashid",
+        "location": "Arabie Saoudite - Greffe de Cheveux"
+      },
+      "testimonial3": {
+        "text": "J'ai choisi la Turquie pour mon traitement cardiologique et je ne le regrette pas du tout. Hôpital moderne et médecins experts.",
+        "author": "Maria Rodriguez",
+        "location": "Espagne - Cardiologie"
+      }
+    },
+    "servicePages": {
+      "testimonials": {
+        "cardiology": {
+          "testimonial1": {
+            "text": "Ma procédure de stent coronarien a été très réussie. Mon médecin et son équipe étaient très professionnels. Le suivi post-traitement était également excellent.",
+            "author": "John Smith",
+            "location": "Angleterre - Stent Coronarien"
+          },
+          "testimonial2": {
+            "text": "J'ai choisi la Turquie pour l'implantation de stimulateur cardiaque. Le traitement et l'hébergement étaient très bons. Je recommande définitivement.",
+            "author": "Maria Garcia",
+            "location": "Espagne - Stimulateur Cardiaque"
+          },
+          "testimonial3": {
+            "text": "Je suis venu pour le traitement de l'arythmie. La procédure d'ablation a été réussie et je n'ai plus de problèmes.",
+            "author": "Ahmed Hassan",
+            "location": "Égypte - Ablation"
+          }
+        },
+        "dental": {
+          "testimonial1": {
+            "text": "Mon traitement d'implant a été très réussi. Mon médecin était très expérimenté et je suis très satisfait du résultat.",
+            "author": "Emma Wilson",
+            "location": "Allemagne - Implant"
+          },
+          "testimonial2": {
+            "text": "Ma procédure de revêtement en zircone était parfaite. Très bon à la fois esthétiquement et fonctionnellement.",
+            "author": "Carlos Rodriguez",
+            "location": "Espagne - Zircone"
+          },
+          "testimonial3": {
+            "text": "J'ai choisi la Turquie pour le traitement orthodontique. Le processus de traitement était très professionnel.",
+            "author": "Anna Kowalski",
+            "location": "Pologne - Orthodontie"
+          }
+        },
+        "hairTransplant": {
+          "testimonial1": {
+            "text": "Mon opération de greffe de cheveux FUE a été très réussie. J'ai obtenu un aspect naturel.",
+            "author": "Michael Brown",
+            "location": "Angleterre - FUE"
+          },
+          "testimonial2": {
+            "text": "J'ai eu une greffe de cheveux avec la technique DHI. Le résultat est très naturel et je suis satisfait.",
+            "author": "David Miller",
+            "location": "États-Unis - DHI"
+          },
+          "testimonial3": {
+            "text": "Ma procédure de greffe de barbe a été réussie. Mon médecin était très expert et expérimenté.",
+            "author": "Ali Al-Zahra",
+            "location": "Arabie Saoudite - Greffe de Barbe"
+          }
+        },
+        "rhinoplasty": {
+          "testimonial1": {
+            "text": "Mon opération de rhinoplastie a été très réussie. Parfait à la fois esthétiquement et fonctionnellement.",
+            "author": "Sophie Martin",
+            "location": "France - Rhinoplastie"
+          },
+          "testimonial2": {
+            "text": "J'ai eu une rhinoplastie de la pointe. Le résultat est très naturel et je suis satisfait.",
+            "author": "Isabella Silva",
+            "location": "Brésil - Rhinoplastie de la Pointe"
+          },
+          "testimonial3": {
+            "text": "Mon opération de septoplastie a été réussie. Je n'ai plus de problèmes respiratoires.",
+            "author": "Robert Johnson",
+            "location": "Canada - Septoplastie"
+          }
+        }
+      }
+    },
+    "cta": {
+      "title": "Prenez Rendez-vous Maintenant",
+      "description": "Obtenez une consultation gratuite avec nos médecins experts et apprenez le plan de traitement le plus approprié pour vous.",
+      "bookAppointment": "Prendre Rendez-vous",
+      "freeConsultation": "Consultation Gratuite"
+    }
+  },
+  "features": {
+    "title": "Pourquoi Curevoy ?",
+    "quality": {
+      "title": "Garantie de Qualité",
+      "description": "Services de santé de niveau mondial",
+      "icon": "🏆"
+    },
+    "pricing": {
+      "title": "Prix Abordables",
+      "description": "Traitement de qualité à des prix compétitifs",
+      "icon": "💰"
+    },
+    "multilingual": {
+      "title": "Support Multilingue",
+      "description": "Turc, Anglais, Arabe et Russe",
+      "icon": "🌍"
+    },
+    "onlineAppointment": {
+      "title": "Rendez-vous en Ligne",
+      "description": "Système de rendez-vous en ligne 24/7",
+      "icon": "📱"
+    }
+  },
+  "testimonials": {
+    "title": "Avis des Patients",
+    "subtitle": "Expériences de nos patients satisfaits"
+  },
+  "contact": {
+    "title": "Contactez-nous",
+    "description": "Contactez-nous pour des informations sur le tourisme médical, pour prendre rendez-vous ou pour vos questions. Notre équipe d'experts sera heureuse de vous aider.",
+    "form": {
+      "name": "Nom Complet",
+      "email": "Email",
+      "phone": "Téléphone",
+      "service": "Service",
+      "message": "Votre Message",
+      "submit": "Envoyer le Message",
+      "required": "Ce champ est requis"
+    },
+    "info": {
+      "phone": "Téléphone",
+      "email": "Email",
+      "address": "Adresse",
+      "workingHours": "Heures de Travail",
+      "phoneNumber": "+90 212 555 0123",
+      "emailAddress": "info@curevoy.com",
+      "addressText": "Levent, Istanbul, Turquie",
+      "hoursText": "Service 24/7"
+    }
+  },
+  "footer": {
+    "trust": {
+      "title": "Certificats de Confiance et Qualité",
+      "ssl": "Sécurité SSL",
+      "jci": "Accréditation JCI",
+      "kvkk": "Conforme KVKK",
+      "iso": "ISO 9001"
+    },
+    "sections": {
+      "about": {
+        "title": "Curevoy",
+        "description": "Portail de tourisme médical leader en Turquie. Options de traitement sûres, de qualité et abordables."
+      },
+      "services": {
+        "title": "Services",
+        "cardiology": "Cardiologie",
+        "dental": "Traitement Dentaire",
+        "hairTransplant": "Greffe de Cheveux",
+        "rhinoplasty": "Rhinoplastie"
+      },
+      "quickLinks": {
+        "title": "Liens Rapides",
+        "doctors": "Médecins",
+        "clinics": "Cliniques",
+        "appointments": "Prendre Rendez-vous",
+        "contact": "Contact"
+      },
+      "support": {
+        "title": "Support",
+        "faq": "Questions Fréquemment Posées",
+        "privacy": "Politique de Confidentialité",
+        "terms": "Conditions d'Utilisation",
+        "customerSupport": "Support Client"
+      }
+    },
+    "bottom": {
+      "copyright": "© 2024 Curevoy. Tous droits réservés.",
+      "approval": "Approuvé par le Ministère de la Santé • Certifié TÜV SÜD",
+      "links": {
+        "privacy": "Confidentialité",
+        "terms": "Conditions",
+        "cookies": "Cookies"
+      }
+    }
+  },
+  "languages": {
+    "tr": "Türkçe",
+    "en": "English",
+    "ar": "العربية",
+    "ru": "Русский",
+    "fr": "Français",
+    "de": "Deutsch",
+    "es": "Español"
+  },
+  "timeUnits": {
+    "day": "jour",
+    "days": "jours",
+    "week": "semaine",
+    "weeks": "semaines",
+    "hour": "heure",
+    "hours": "heures"
+  },
+  "appointment": {
+    "title": "Prendre Rendez-vous",
+    "step1": "Informations Personnelles",
+    "step2": "Détails du Rendez-vous",
+    "step3": "Informations de Santé",
+    "step4": "Préférences de Contact",
+    "personalInfo": "Informations Personnelles",
+    "appointmentDetails": "Détails du Rendez-vous",
+    "healthInfo": "Informations de Santé",
+    "contactPreferences": "Préférences de Contact",
+    "fullName": "Nom Complet",
+    "email": "E-mail",
+    "phone": "Numéro de Téléphone",
+    "country": "Pays",
+    "dateOfBirth": "Date de Naissance",
+    "serviceType": "Type de Service",
+    "appointmentDate": "Date du Rendez-vous",
+    "preferredTime": "Heure Préférée",
+    "isEmergency": "Urgence",
+    "healthStatus": "État de Santé Actuel",
+    "medications": "Médicaments Actuels",
+    "allergies": "Allergies",
+    "previousTreatments": "Traitements Précédents",
+    "contactMethod": "Méthode de Contact",
+    "languagePreference": "Préférence de Langue",
+    "additionalNotes": "Notes Supplémentaires",
+    "selectCountry": "Sélectionner le Pays",
+    "selectService": "Sélectionner le Service",
+    "selectTime": "Sélectionner l'Heure",
+    "workingHours": "Heures de travail: Jours ouvrables 09:00-17:00",
+    "healthStatusPlaceholder": "Décrivez brièvement votre état de santé actuel...",
+    "medicationsPlaceholder": "Listez les médicaments que vous prenez actuellement...",
+    "allergiesPlaceholder": "Spécifiez les allergies connues...",
+    "previousTreatmentsPlaceholder": "Décrivez les traitements que vous avez reçus auparavant...",
+    "additionalNotesPlaceholder": "Écrivez des informations supplémentaires ou des demandes spéciales...",
+    "operatorNotice": "Notre opérateur vous contactera après confirmation de votre rendez-vous.",
+    "previous": "Précédent",
+    "next": "Suivant",
+    "submit": "Demander un Rendez-vous"
+  }
+} 

@@ -1,0 +1,383 @@
+{
+  "common": {
+    "loading": "Laden...",
+    "error": "Ein Fehler ist aufgetreten",
+    "success": "Erfolgreich",
+    "cancel": "Abbrechen",
+    "save": "Speichern",
+    "delete": "Löschen",
+    "edit": "Bearbeiten",
+    "view": "Anzeigen",
+    "search": "Suchen",
+    "filter": "Filtern",
+    "sort": "Sortieren",
+    "back": "Zurück",
+    "next": "Weiter",
+    "previous": "Vorherige",
+    "submit": "Absenden",
+    "close": "Schließen",
+    "open": "Öffnen",
+    "yes": "Ja",
+    "no": "Nein",
+    "ok": "OK"
+  },
+  "navigation": {
+    "home": "Startseite",
+    "doctors": "Ärzte",
+    "clinics": "Kliniken",
+    "services": "Dienstleistungen",
+    "appointments": "Termin Buchen",
+    "contact": "Kontakt",
+    "faq": "FAQ",
+    "login": "Anmelden",
+    "register": "Registrieren",
+    "profile": "Profil",
+    "settings": "Einstellungen",
+    "logout": "Abmelden"
+  },
+  "header": {
+    "logo": "Curevoy",
+    "slogan": "Medizintourismus Portal",
+    "languageSelector": "Sprachauswahl",
+    "mobileMenu": "Mobiles Menü"
+  },
+  "hero": {
+    "title": "Heilen und Entdecken",
+    "subtitle": "Lernen Sie Expertenärzte und moderne Kliniken für erstklassige Gesundheitsdienstleistungen kennen. Sichere, qualitativ hochwertige und erschwingliche Behandlungsoptionen.",
+    "appointmentButton": "Termin Buchen",
+    "doctorsButton": "Ärzte Anzeigen",
+    "stats": {
+      "doctors": "Expertenärzte",
+      "clinics": "Moderne Kliniken",
+      "patients": "Zufriedene Patienten"
+    }
+  },
+  "services": {
+    "title": "Unsere Dienstleistungen",
+    "cardiology": {
+      "title": "Kardiologie",
+      "description": "Expertenkardiologen und moderne Behandlungsmethoden für Herzgesundheit",
+      "icon": "❤️"
+    },
+    "dental": {
+      "title": "Zahnbehandlung",
+      "description": "Ästhetische Zahnmedizin und Implantatbehandlungen",
+      "icon": "🦷"
+    },
+    "hairTransplant": {
+      "title": "Haartransplantation",
+      "description": "Natürliche Haartransplantation mit FUE- und DHI-Techniken",
+      "icon": "💇‍♂️"
+    },
+    "rhinoplasty": {
+      "title": "Nasenkorrektur",
+      "description": "Rhinoplastik und ästhetische Nasenoperationen",
+      "icon": "👃"
+    },
+    "viewDetails": "Details Anzeigen"
+  },
+  "servicePages": {
+    "hero": {
+      "stats": {
+        "doctors": "Expertenärzte",
+        "treatments": "Erfolgreiche Behandlungen",
+        "successRate": "Erfolgsrate"
+      }
+    },
+    "details": {
+      "title": "Dienstleistungsdetails",
+      "description": "Wir bieten Ihnen den besten Gesundheitsdienst mit unseren Expertenärzten und modernen Behandlungsmethoden.",
+      "treatments": "Verfügbare Behandlungen",
+      "whyTurkey": "Warum Behandlung in der Türkei?",
+      "benefits": {
+        "modernHospitals": {
+          "title": "Moderne Krankenhäuser",
+          "description": "Moderne Krankenhäuser mit neuesten technologischen Geräten ausgestattet"
+        },
+        "expertDoctors": {
+          "title": "Expertenärzte",
+          "description": "Expertenärzte mit internationaler Erfahrung"
+        },
+        "affordablePrices": {
+          "title": "Erschwingliche Preise",
+          "description": "60-70% günstigere Preise im Vergleich zu Europa und USA"
+        },
+        "easyAccess": {
+          "title": "Einfacher Zugang",
+          "description": "Einfacher Zugang von überall auf der Welt"
+        }
+      }
+    },
+    "infoCard": {
+      "title": "Schnelle Info",
+      "treatmentDuration": "Behandlungsdauer",
+      "hospitalStay": "Krankenhausaufenthalt",
+      "recoveryTime": "Erholungszeit",
+      "priceRange": "Preisspanne",
+      "bookAppointment": "Termin Buchen"
+    },
+    "consultation": {
+      "title": "Kostenlose Beratung",
+      "description": "Erhalten Sie kostenlose Beratung von unseren Experten",
+      "phone": "Telefon",
+      "email": "E-Mail",
+      "whatsapp": "WhatsApp"
+    },
+    "doctors": {
+      "title": "Unsere Expertenärzte",
+      "experience": "Erfahrung",
+      "operations": "Operationen",
+      "success": "Erfolg",
+      "viewProfile": "Profil Anzeigen"
+    },
+    "testimonials": {
+      "title": "Patientenbewertungen",
+      "subtitle": "Erfahrungen unserer zufriedenen Patienten",
+      "testimonial1": {
+        "text": "Dank Curevoy habe ich eine ausgezeichnete Zahnbehandlung in der Türkei erhalten. Der gesamte Prozess war sehr professionell und ich bin sehr zufrieden mit dem Ergebnis.",
+        "author": "Sarah Johnson",
+        "location": "England - Zahnbehandlung"
+      },
+      "testimonial2": {
+        "text": "Meine Haartransplantationsoperation war sehr erfolgreich. Mein Arzt und sein Team waren sehr fürsorglich. Ich empfehle es definitiv.",
+        "author": "Ahmed Al-Rashid",
+        "location": "Saudi-Arabien - Haartransplantation"
+      },
+      "testimonial3": {
+        "text": "Ich habe die Türkei für meine kardiologische Behandlung gewählt und bereue es überhaupt nicht. Modernes Krankenhaus und Expertenärzte.",
+        "author": "Maria Rodriguez",
+        "location": "Spanien - Kardiologie"
+      }
+    },
+    "servicePages": {
+      "testimonials": {
+        "cardiology": {
+          "testimonial1": {
+            "text": "Mein Koronarstent-Verfahren war sehr erfolgreich. Mein Arzt und sein Team waren sehr professionell. Die Nachsorge war ebenfalls ausgezeichnet.",
+            "author": "John Smith",
+            "location": "England - Koronarstent"
+          },
+          "testimonial2": {
+            "text": "Ich habe die Türkei für die Schrittmacher-Implantation gewählt. Sowohl Behandlung als auch Unterkunft waren sehr gut. Ich empfehle es definitiv.",
+            "author": "Maria Garcia",
+            "location": "Spanien - Schrittmacher"
+          },
+          "testimonial3": {
+            "text": "Ich kam zur Behandlung von Arrhythmien. Die Ablationsprozedur war erfolgreich und ich habe keine Probleme mehr.",
+            "author": "Ahmed Hassan",
+            "location": "Ägypten - Ablation"
+          }
+        },
+        "dental": {
+          "testimonial1": {
+            "text": "Meine Implantatbehandlung war sehr erfolgreich. Mein Arzt war sehr erfahren und ich bin sehr zufrieden mit dem Ergebnis.",
+            "author": "Emma Wilson",
+            "location": "Deutschland - Implantat"
+          },
+          "testimonial2": {
+            "text": "Mein Zirkonium-Beschichtungsverfahren war perfekt. Sehr gut sowohl ästhetisch als auch funktional.",
+            "author": "Carlos Rodriguez",
+            "location": "Spanien - Zirkonium"
+          },
+          "testimonial3": {
+            "text": "Ich habe die Türkei für die kieferorthopädische Behandlung gewählt. Der Behandlungsprozess war sehr professionell.",
+            "author": "Anna Kowalski",
+            "location": "Polen - Kieferorthopädie"
+          }
+        },
+        "hairTransplant": {
+          "testimonial1": {
+            "text": "Meine FUE-Haartransplantationsoperation war sehr erfolgreich. Ich habe ein natürliches Aussehen erreicht.",
+            "author": "Michael Brown",
+            "location": "England - FUE"
+          },
+          "testimonial2": {
+            "text": "Ich hatte eine Haartransplantation mit DHI-Technik. Das Ergebnis ist sehr natürlich und ich bin zufrieden.",
+            "author": "David Miller",
+            "location": "USA - DHI"
+          },
+          "testimonial3": {
+            "text": "Mein Barttransplantationsverfahren war erfolgreich. Mein Arzt war sehr erfahren und qualifiziert.",
+            "author": "Ali Al-Zahra",
+            "location": "Saudi-Arabien - Barttransplantation"
+          }
+        },
+        "rhinoplasty": {
+          "testimonial1": {
+            "text": "Meine Rhinoplastik-Operation war sehr erfolgreich. Perfekt sowohl ästhetisch als auch funktional.",
+            "author": "Sophie Martin",
+            "location": "Frankreich - Rhinoplastik"
+          },
+          "testimonial2": {
+            "text": "Ich hatte eine Nasenspitzenplastik. Das Ergebnis ist sehr natürlich und ich bin zufrieden.",
+            "author": "Isabella Silva",
+            "location": "Brasilien - Nasenspitzenplastik"
+          },
+          "testimonial3": {
+            "text": "Meine Septoplastik-Operation war erfolgreich. Ich habe keine Atemprobleme mehr.",
+            "author": "Robert Johnson",
+            "location": "Kanada - Septoplastik"
+          }
+        }
+      }
+    },
+    "cta": {
+      "title": "Jetzt Termin Buchen",
+      "description": "Erhalten Sie kostenlose Beratung von unseren Expertenärzten und erfahren Sie den am besten geeigneten Behandlungsplan für Sie.",
+      "bookAppointment": "Termin Buchen",
+      "freeConsultation": "Kostenlose Beratung"
+    }
+  },
+  "features": {
+    "title": "Warum Curevoy?",
+    "quality": {
+      "title": "Qualitätsgarantie",
+      "description": "Erstklassige Gesundheitsdienstleistungen",
+      "icon": "🏆"
+    },
+    "pricing": {
+      "title": "Erschwingliche Preise",
+      "description": "Qualitätsbehandlung zu wettbewerbsfähigen Preisen",
+      "icon": "💰"
+    },
+    "multilingual": {
+      "title": "Mehrsprachige Unterstützung",
+      "description": "Türkisch, Englisch, Arabisch und Russisch",
+      "icon": "🌍"
+    },
+    "onlineAppointment": {
+      "title": "Online Terminbuchung",
+      "description": "24/7 Online-Terminbuchungssystem",
+      "icon": "📱"
+    }
+  },
+  "testimonials": {
+    "title": "Patientenbewertungen",
+    "subtitle": "Erfahrungen unserer zufriedenen Patienten"
+  },
+  "contact": {
+    "title": "Kontaktieren Sie uns",
+    "description": "Kontaktieren Sie uns für Informationen über Medizintourismus, um einen Termin zu vereinbaren oder für Ihre Fragen. Unser Expertenteam wird Ihnen gerne helfen.",
+    "form": {
+      "name": "Vollständiger Name",
+      "email": "E-Mail",
+      "phone": "Telefon",
+      "service": "Dienstleistung",
+      "message": "Ihre Nachricht",
+      "submit": "Nachricht Senden",
+      "required": "Dieses Feld ist erforderlich"
+    },
+    "info": {
+      "phone": "Telefon",
+      "email": "E-Mail",
+      "address": "Adresse",
+      "workingHours": "Arbeitszeiten",
+      "phoneNumber": "+90 212 555 0123",
+      "emailAddress": "info@curevoy.com",
+      "addressText": "Levent, Istanbul, Türkei",
+      "hoursText": "24/7 Service"
+    }
+  },
+  "footer": {
+    "trust": {
+      "title": "Vertrauens- und Qualitätszertifikate",
+      "ssl": "SSL-Sicherheit",
+      "jci": "JCI-Akkreditierung",
+      "kvkk": "KVKK-konform",
+      "iso": "ISO 9001"
+    },
+    "sections": {
+      "about": {
+        "title": "Curevoy",
+        "description": "Führendes Medizintourismus-Portal in der Türkei. Sichere, qualitativ hochwertige und erschwingliche Behandlungsoptionen."
+      },
+      "services": {
+        "title": "Dienstleistungen",
+        "cardiology": "Kardiologie",
+        "dental": "Zahnbehandlung",
+        "hairTransplant": "Haartransplantation",
+        "rhinoplasty": "Nasenkorrektur"
+      },
+      "quickLinks": {
+        "title": "Schnelllinks",
+        "doctors": "Ärzte",
+        "clinics": "Kliniken",
+        "appointments": "Termin Buchen",
+        "contact": "Kontakt"
+      },
+      "support": {
+        "title": "Support",
+        "faq": "Häufig Gestellte Fragen",
+        "privacy": "Datenschutzrichtlinie",
+        "terms": "Nutzungsbedingungen",
+        "customerSupport": "Kundensupport"
+      }
+    },
+    "bottom": {
+      "copyright": "© 2024 Curevoy. Alle Rechte vorbehalten.",
+      "approval": "Genehmigt vom Gesundheitsministerium • TÜV SÜD-zertifiziert",
+      "links": {
+        "privacy": "Datenschutz",
+        "terms": "Bedingungen",
+        "cookies": "Cookies"
+      }
+    }
+  },
+  "languages": {
+    "tr": "Türkçe",
+    "en": "English",
+    "ar": "العربية",
+    "ru": "Русский",
+    "fr": "Français",
+    "de": "Deutsch",
+    "es": "Español"
+  },
+  "timeUnits": {
+    "day": "Tag",
+    "days": "Tage",
+    "week": "Woche",
+    "weeks": "Wochen",
+    "hour": "Stunde",
+    "hours": "Stunden"
+  },
+  "appointment": {
+    "title": "Termin Buchen",
+    "step1": "Persönliche Informationen",
+    "step2": "Termin Details",
+    "step3": "Gesundheitsinformationen",
+    "step4": "Kontaktpräferenzen",
+    "personalInfo": "Persönliche Informationen",
+    "appointmentDetails": "Termin Details",
+    "healthInfo": "Gesundheitsinformationen",
+    "contactPreferences": "Kontaktpräferenzen",
+    "fullName": "Vollständiger Name",
+    "email": "E-Mail",
+    "phone": "Telefonnummer",
+    "country": "Land",
+    "dateOfBirth": "Geburtsdatum",
+    "serviceType": "Serviceart",
+    "appointmentDate": "Termindatum",
+    "preferredTime": "Bevorzugte Zeit",
+    "isEmergency": "Notfall",
+    "healthStatus": "Aktueller Gesundheitszustand",
+    "medications": "Aktuelle Medikamente",
+    "allergies": "Allergien",
+    "previousTreatments": "Vorherige Behandlungen",
+    "contactMethod": "Kontaktmethode",
+    "languagePreference": "Sprachpräferenz",
+    "additionalNotes": "Zusätzliche Notizen",
+    "selectCountry": "Land auswählen",
+    "selectService": "Service auswählen",
+    "selectTime": "Zeit auswählen",
+    "workingHours": "Arbeitszeiten: Werktags 09:00-17:00",
+    "healthStatusPlaceholder": "Beschreiben Sie kurz Ihren aktuellen Gesundheitszustand...",
+    "medicationsPlaceholder": "Listen Sie die Medikamente auf, die Sie derzeit einnehmen...",
+    "allergiesPlaceholder": "Geben Sie bekannte Allergien an...",
+    "previousTreatmentsPlaceholder": "Beschreiben Sie Behandlungen, die Sie zuvor erhalten haben...",
+    "additionalNotesPlaceholder": "Schreiben Sie zusätzliche Informationen oder besondere Anfragen...",
+    "operatorNotice": "Unser Operator wird Sie nach Bestätigung Ihres Termins kontaktieren.",
+    "previous": "Zurück",
+    "next": "Weiter",
+    "submit": "Termin Anfragen"
+  }
+} 
