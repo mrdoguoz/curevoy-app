@@ -3,6 +3,9 @@ const mongoose = require('mongoose');
 const cors = require('cors');
 require('dotenv').config();
 
+// Import Appointment model
+const Appointment = require('./models/Appointment');
+
 const app = express();
 const PORT = process.env.PORT || 5000;
 
@@ -36,6 +39,32 @@ app.get('/api', (req, res) => {
     version: '1.0.0',
     status: 'Çalışıyor'
   });
+});
+
+// Appointment Routes
+app.post('/api/appointments', async (req, res) => {
+  try {
+    const appointmentData = req.body;
+    console.log('📝 Gelen randevu verisi:', appointmentData);
+    
+    // Create new appointment
+    const appointment = new Appointment(appointmentData);
+    await appointment.save();
+    
+    console.log('✅ Yeni randevu başarıyla MongoDB\'ye kaydedildi:', appointment._id);
+    
+    res.status(201).json({
+      success: true,
+      message: 'Randevu başarıyla oluşturuldu',
+      appointmentId: appointment._id
+    });
+  } catch (error) {
+    console.error('❌ Randevu kaydetme hatası:', error.message);
+    res.status(500).json({
+      success: false,
+      message: 'Randevu kaydedilirken bir hata oluştu: ' + error.message
+    });
+  }
 });
 
 // Server başlatma
